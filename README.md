@@ -5,5 +5,5 @@ Helm library charts for the 4xxi Helm charts
 
 ```console
 helm repo add 4xxi-library https://library-charts.fourxxi.com
-helm search 4xxi-library
+helm search repo 4xxi-library
 ```
