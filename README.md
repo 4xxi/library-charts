@@ -1,9 +1,9 @@
 # library-charts
-Helm library charts for the k8s@home Helm charts
+Helm library charts for the 4xxi Helm charts
 
 ## Installation
 
 ```console
-helm repo add k8s-at-home-library https://library-charts.k8s-at-home.com
-helm search k8s-at-home-library
+helm repo add 4xxi-library https://library-charts.fourxxi.com
+helm search 4xxi-library
 ```
