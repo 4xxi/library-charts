@@ -4,7 +4,6 @@ description: Helper chart to test different use cases of the common library
 version: 0.1.0
 kubeVersion: ">=1.16.0-0"
 keywords:
-- k8s-at-home
 - common
 home: https://github.com/4xxi/library-charts/tree/main/charts/stable/common
 maintainers:
