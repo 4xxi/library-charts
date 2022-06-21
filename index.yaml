@@ -76,6 +76,22 @@ entries:
     - https://github.com/4xxi/library-charts/releases/download/common-4.4.2-0/common-4.4.2-0.tgz
     version: 4.4.2-0
   - apiVersion: v2
+    created: "2022-06-21T15:25:34.279163898Z"
+    description: Function library for common charts
+    digest: 7105475c86db438231c32917a9b5b2e4373547d4dbdf180efa1138970373dbd4
+    home: https://github.com/4xxi/library-charts/tree/main/charts/stable/common
+    keywords:
+    - common
+    kubeVersion: '>=1.16.0-0'
+    maintainers:
+    - email: ab@4xxi.com
+      name: Aleksandr Beshkenadze
+    name: common
+    type: library
+    urls:
+    - https://github.com/4xxi/library-charts/releases/download/common-4.4.2-0/common-4.4.2-0.tgz
+    version: 4.4.2-0
+  - apiVersion: v2
     created: "2022-05-02T05:28:46.96043241Z"
     description: Function library for k8s-at-home charts
     digest: b314fc722a177a5e0383dbb24268c1b987675b4c5378e2c2515286fe363c100a
@@ -618,4 +634,4 @@ entries:
     urls:
     - https://github.com/k8s-at-home/library-charts/releases/download/test-0.1.0/test-0.1.0.tgz
     version: 0.1.0
-generated: "2022-06-21T15:23:56.732823605Z"
+generated: "2022-06-21T15:25:34.279369497Z"
