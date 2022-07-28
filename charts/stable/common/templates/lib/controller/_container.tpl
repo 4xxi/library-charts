@@ -76,7 +76,7 @@
   volumeMounts:
     {{- nindent 4 . }}
   {{- end }}
-  {{- include "common.controller.probes" . | trim | nindent 2 }}
+  {{- include "common.controller.extraspec" . | trim | nindent 2 }}
   {{- with .Values.resources }}
   resources:
     {{- toYaml . | nindent 4 }}

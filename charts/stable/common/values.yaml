@@ -37,6 +37,8 @@ controller:
   # -- Set statefulset podManagementPolicy, valid values are Parallel and OrderedReady (default).
   podManagementPolicy:
 
+extraSpec: {}
+
 image:
   # -- image repository
   repository:
